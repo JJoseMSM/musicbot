@@ -1,0 +1,19 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "description": "Private music bot for discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JJoseMSM/musicbot.git"
+  },
+  "author": "Jose Manuel Sanchez Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJoseMSM/musicbot/issues"
+  },
+  "homepage": "https://github.com/JJoseMSM/musicbot#readme"
+}
